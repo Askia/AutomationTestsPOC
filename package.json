@@ -1,0 +1,16 @@
+{
+  "name": "automation-tests-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codeceptjs/ui": "^0.4.6",
+    "codeceptjs": "^3.0.7",
+    "puppeteer": "^10.1.0"
+  }
+}
